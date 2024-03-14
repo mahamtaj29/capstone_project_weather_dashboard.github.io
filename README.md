@@ -43,4 +43,4 @@ This project is a personal portfolio, and contributions are not expected. Howeve
 
 ## URL
 
-This is my portfolio url https://mahamtaj29.github.io/capstone_project_portfolio.github.io/
+This is my portfolio url https://mahamtaj29.github.io/capstone_project_weather_dashboard.github.io/
