@@ -39,7 +39,7 @@ The objective of this project is to reinforce understanding of DOM manipulation,
 
 ## Contributing
 
-This project is a personal portfolio, and contributions are not expected. However, feel free to use the code as a template for your own work or suggest improvements.
+This project is a practice project, and contributions are not expected. However, feel free to use the code as a template for your own work or suggest improvements.
 
 ## URL
 
